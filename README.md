@@ -1,0 +1,2 @@
+# Cardinal
+Manga downloader app
